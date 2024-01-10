@@ -14,7 +14,7 @@ Tabela de conteúdos
 =================
 <p align="center">
  <a href="#-objetivo">Objetivo</a> •
- <a href="#tecnologias">Tecnologias</a> • 
+ <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#features">Features</a> • 
  <a href="#licenca">Licença</a> • 
  <a href="#autor">Autor</a>
@@ -29,7 +29,20 @@ Tabela de conteúdos
 
 ### ✅ Objetivo
 
-<p>💡A ideia era fazer uma loja online de jogos para compra digital, toda a ideia foi criada pelos designers da EBAC e aplicada por mim na execução e criação do código com ajuda do profesor Gian Souza.</p>
+<p>💡A ideia era fazer uma loja online de jogos para compra digital, toda a ideia foi criada pelos designers da EBAC e aplicada por mim na execução e criação do código com ajuda do profesor Gian Souza. A loja possui diversos jogos e seções e toda parte de pagamento e checkout também é funcional.</p>
+
+### 💻 Tecnologias
+
+<p>Lista de tecnologias utilizadas nesse projeto: </p>
+- ReactJS
+- Typescript
+- Styled-Components
+- Prettier
+- React Router
+- Formix
+- Eslint
+- API
+- Redux Toolkit
 
 
 ### 💡Features
