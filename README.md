@@ -13,7 +13,7 @@
 Tabela de conteúdos
 =================
 <p align="center">
- <a href="#objetivo">Objetivo</a> •
+ <a href="#Objetivo">Objetivo</a> •
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#features">Features</a> • 
  <a href="#licenca">Licença</a> • 
@@ -24,6 +24,13 @@ Tabela de conteúdos
 	✅ EPLAY 🚀 Projeto finalizado.  ✅
 </h4>
 </div>
+
+![Print da tela](./src/assets/images/foto-eplay)
+
+### ✅ Objetivo
+
+<p>💡A ideia era fazer uma loja online de jogos para compra digital, toda a ideia foi criada pelos designers da EBAC e aplicada por mim na execução e criação do código com ajuda do profesor Gian Souza.</p>
+
 
 ### Features
 
