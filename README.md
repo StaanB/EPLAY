@@ -19,4 +19,8 @@ Tabela de conteúdos
  <a href="#licenca">Licença</a> • 
  <a href="#autor">Autor</a>
 </p>
+
+<h4 align="center"> 
+	✅ EPLAY 🚀 Projeto finalizado.  ✅
+</h4>
 </div>
