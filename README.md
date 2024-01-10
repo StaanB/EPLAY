@@ -25,7 +25,7 @@ Tabela de conteúdos
 </h4>
 </div>
 
-![Print da tela](./src/assets/images/foto-eplay)
+![Print da tela](./src/assets/images/foto-eplay.png)
 
 ### ✅ Objetivo
 
