@@ -53,8 +53,20 @@ Tabela de conteúdos
 - [x] Integração com API.
 - [x] Finalização e compra do produto.
 
-⚖️ <h2><a href="https://github.com/StaanB/EPLAY/blob/main/LICENSE">LICENÇA</a></h2>
+<h3><a href="https://github.com/StaanB/EPLAY/blob/main/LICENSE">⚖️LICENÇA</a></h3>
 
-<p>💡A ideia era fazer uma loja online de jogos para compra digital, toda a ideia foi criada pelos designers da EBAC e aplicada por mim na execução e criação do código com ajuda do profesor Gian Souza. A loja possui diversos jogos e seções e toda parte de pagamento e checkout também é funcional.</p>
+### 🧑🏻Autor
+---
+
+<a href="https://github.com/StaanB">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/86057261?v=4" width="100px;" alt="Foto Stanley Brenner"/>
+ <br />
+ <sub><b>Stanley Brenner</b></sub></a> <a href="https://stanley-b.vercel.app/" title="Stanley">🚀</a>
+
+
+Feito por Stanley 👋🏽 Entre em contato!
+
+[![Linkedin Badge](https://img.shields.io/badge/-Stanley-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stanley-brenner-front-end/)](https://www.linkedin.com/in/stanley-brenner-front-end/) 
+[![Gmail Badge](https://img.shields.io/badge/-stanleybrenner@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:stanleybrenner@gmail.com)](mailto:stanleybrenner@gmail.com)
 
 
