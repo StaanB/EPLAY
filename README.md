@@ -23,6 +23,7 @@ Tabela de conteúdos
 <h4 align="center"> 
 	✅ EPLAY 🚀 Projeto finalizado.  ✅
 </h4>
+</div>
 
 ### Features
 
@@ -31,4 +32,3 @@ Tabela de conteúdos
 - [x] Verificação de formulário.
 - [x] Integração com API.
 - [x] Finalização e compra do produto.
-</div>
