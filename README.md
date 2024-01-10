@@ -34,15 +34,15 @@ Tabela de conteúdos
 ### 💻 Tecnologias
 
 <p>Lista de tecnologias utilizadas nesse projeto: </p>
-•ReactJS
-•Typescript
-•Styled-Components
-•Prettier
-•React Router
-•Formix
-•Eslint
-•API
-•Redux Toolkit
+<p>•ReactJS</p>
+<p>•Typescript</p>
+<p>•Styled-Components</p>
+<p>•Prettier</p>
+<p>•React Router</p>
+<p>•Formix</p>
+<p>•Eslint</p>
+<p>•API</p>
+<p>•Redux Toolkit</p>
 
 
 ### 💡Features
