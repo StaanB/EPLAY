@@ -15,7 +15,7 @@ Tabela de conteúdos
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
  <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuicao">Contribuição</a> • 
+ <a href="#features">Features</a> • 
  <a href="#licenca">Licença</a> • 
  <a href="#autor">Autor</a>
 </p>
@@ -23,4 +23,12 @@ Tabela de conteúdos
 <h4 align="center"> 
 	✅ EPLAY 🚀 Projeto finalizado.  ✅
 </h4>
+
+### Features
+
+- [x] Escolha de produto.
+- [x] Utilização do carrinho.
+- [x] Verificação de formulário.
+- [x] Integração com API.
+- [x] Finalização e compra do produto.
 </div>
