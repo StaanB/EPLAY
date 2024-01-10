@@ -32,7 +32,7 @@ Tabela de conteúdos
 <p>💡A ideia era fazer uma loja online de jogos para compra digital, toda a ideia foi criada pelos designers da EBAC e aplicada por mim na execução e criação do código com ajuda do profesor Gian Souza.</p>
 
 
-### Features
+### 💡Features
 
 - [x] Escolha de produto.
 - [x] Utilização do carrinho.
