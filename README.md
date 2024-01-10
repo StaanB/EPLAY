@@ -5,7 +5,7 @@
 <h1 align="center">EPLAY - Loja de games online</h1>
 
 <h1 align="center">
-    <a href="https://eplay-one.vercel.app/">🔗 Site da EPLAY</a>
+    <a href="https://eplay-one.vercel.app/">🔗 Clique aqui para acesar EPLAY</a>
 </h1>
 
 <p align="center">🚀 Loja de games online feita no curso da EBAC com o professor Gian Souza.</p>
@@ -33,16 +33,16 @@ Tabela de conteúdos
 
 ### 💻 Tecnologias
 
-<p>Lista de tecnologias utilizadas nesse projeto: </p>
-<p>•ReactJS</p>
-<p>•Typescript</p>
-<p>•Styled-Components</p>
-<p>•Prettier</p>
-<p>•React Router</p>
-<p>•Formix</p>
-<p>•Eslint</p>
-<p>•API</p>
-<p>•Redux Toolkit</p>
+<h2>Lista de tecnologias utilizadas nesse projeto: </h2>
+<h2>• ReactJS</h2>
+<h2>• Typescript</h2>
+<h2>• Styled-Components</h2>
+<h2>• Prettier</h2>
+<h2>• React Router</h2>
+<h2>• Formix</h2>
+<h2>• Eslint</h2>
+<h2>• API</h2>
+<h2>• Redux Toolkit</h2>
 
 
 ### 💡Features
