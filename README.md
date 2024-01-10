@@ -1,1 +1,1 @@
-<img href="./src/assets/logo.svg" />
+![Logo EPLAY](./src/assets/images/logo.svg)
