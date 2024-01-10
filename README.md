@@ -5,7 +5,7 @@
 <h1 align="center">EPLAY - Loja de games online</h1>
 
 <h1 align="center">
-    <a target="_blank" href="https://eplay-one.vercel.app/">🔗 Clique aqui para acesar EPLAY</a>
+    <a href="https://eplay-one.vercel.app/">🔗 Clique aqui para acesar EPLAY</a>
 </h1>
 
 <p align="center">🚀 Loja de games online feita no curso da EBAC com o professor Gian Souza.</p>
