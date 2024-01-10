@@ -15,9 +15,9 @@ Tabela de conteúdos
 <p align="center">
  <a href="#-objetivo">Objetivo</a> •
  <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#-features">Features</a> • 
+ <a href="#features">Features</a> • 
  <a href="https://github.com/StaanB/EPLAY/blob/main/LICENSE">Licença</a> • 
- <a href="#-autor">Autor</a>
+ <a href="#autor">Autor</a>
 </p>
 
 <h4 align="center"> 
