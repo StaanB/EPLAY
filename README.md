@@ -52,3 +52,9 @@ Tabela de conteúdos
 - [x] Verificação de formulário.
 - [x] Integração com API.
 - [x] Finalização e compra do produto.
+
+⚖️ <h2><a href="https://github.com/StaanB/EPLAY/blob/main/LICENSE">LICENÇA</a></h2>
+
+<p>💡A ideia era fazer uma loja online de jogos para compra digital, toda a ideia foi criada pelos designers da EBAC e aplicada por mim na execução e criação do código com ajuda do profesor Gian Souza. A loja possui diversos jogos e seções e toda parte de pagamento e checkout também é funcional.</p>
+
+
